@@ -1,0 +1,46 @@
+#cardsView {
+  margin: 10px;
+}
+
+#oneArticle {
+  max-width: 60%;
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+
+#oneArticleCont {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+#oneArticleCont p a {
+  margin: 30px;
+}
+
+#nav {
+  padding: 20px;
+}
+
+#inscription div div {
+  margin: 15px;
+}
+
+#modalButton {
+  margin: 0 auto;
+  text-align: center;
+}
+
+.adminCont {
+  margin: 20px;
+}
+
+.case {
+  text-align: center;
+}
+
+
+
+
+
